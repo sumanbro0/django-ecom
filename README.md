@@ -1,6 +1,10 @@
 # django-ecom
 # At first clone git repository;
 $ git clone https://github.com/sumanbro0/django-ecom.git 
+
+# go inside repo
+$ cd django-ecom 
+
 # create virtual environment; 
 $ pip install pipenv
 
