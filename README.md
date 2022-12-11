@@ -10,5 +10,12 @@ $ pipenv shell
 # install required backend python modules; 
 $ pipenv install
 
+
 # Now run backend server ;
+$ pipenv shell
 $ py manage.py runserver
+
+# Access admin dashbord :
+$ url: localhost:8000/admin/
+# dashboard id: admin
+# dashboard password: admin
