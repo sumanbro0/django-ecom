@@ -1,6 +1,8 @@
 # django-ecom
 At first clone git repository; 
-$ git clone https://github.com/sumanbro0/django-ecom.git create virtual environment; $ pip install pipenv
+$ git clone https://github.com/sumanbro0/django-ecom.git 
+create virtual environment; 
+$ pip install pipenv
 
 activate virtual environment;
 $ pipenv shell
