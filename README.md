@@ -1,3 +1,6 @@
+# hosted url
+https://dj-ecom-production.up.railway.app/
+
 # django-ecom
 # At first clone git repository;
 $ git clone https://github.com/sumanbro0/django-ecom.git 
